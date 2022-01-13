@@ -1,10 +1,9 @@
 <!doctype html>
 <html lang="en-US">
-  <head><title>
+  <title>
     Delta Soul
     </title>
     <text> Delta Soul is here!</text>
-    <script type="text/javscript">
-    </script>
-  </head>
+    <script type="text/javascript">
+  </script>
 </html>
